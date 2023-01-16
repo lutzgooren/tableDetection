@@ -1,0 +1,439 @@
+------- psm 0:
+OSD only (no OCR)
+
+------- psm 1:
+MC 027
+MC 032
+MC 077
+MC 085
+MC 145
+
+Standort
+
+Marienfelde
+Grunewald
+Buch
+Friedrichshagen
+Frohnau
+
+Wedding
+Schöneberg
+Neukölln
+Mitte
+Karlshorst
+
+Hardenbergplatz
+Schilekaonastraße
+Mariendorfer Damm
+Silbersteinstraße
+Frankfurter Allee
+Karl-Marx-Straße
+
+passe
+
+NNesskompongnter
+
+aa ss
+"= bobo-Jofkr[e
+EEE EEE
+
+------- psm 2:
+*ERROR*
+
+------- psm 3:
+MC 027
+MC 032
+MC 077
+MC 085
+MC 145
+
+Standort
+
+Marienfelde
+Grunewald
+Buch
+Friedrichshagen
+Frohnau
+
+Wedding
+Schöneberg
+Neukölln
+Mitte
+Karlshorst
+
+Hardenbergplatz
+Schilekaonastraße
+Mariendorfer Damm
+Silbersteinstraße
+Frankfurter Allee
+Karl-Marx-Straße
+
+passe
+
+NNesskompongnter
+
+aa ss
+"= bobo-Jofkr[e
+EEE EEE
+
+------- psm 4:
+passe
+
+Standort Nesskompongnteg
+
+aa ss
+"= bobo-Jofkr[e
+EEE EEE
+
+MC 027 Marienfelde
+
+MC 032 Grunewald
+
+MC 077 Buch
+
+MC 085 Friedrichshagen
+MC 145 Frohnau
+
+Wedding
+Schöneberg
+Neukölln
+Mitte
+Karlshorst
+
+Hardenbergplatz
+Schilekaonastraße
+Mariendorfer Damm
+Silbersteinstraße
+Frankfurter Allee
+Karl-Marx-Straße
+
+------- psm 5:
+Io oO
+ee
+On S N
+> u 0.
+nn x x
+1 KEEE
+25 FE u x x x
+_
+c :
+8 /| ! on
+o _ : Enge HEHEpH :
+N -
+H FE u Eu u © FE er
+oo Z
+we 1 |
+vo
+=S5 xxx x x FE u
+on
+NL
+| E D :
+zZ eb) © ©
+S So ja SSÄsSeg
+c © 2 ISH u
+rn °sS 95 |Z|_ © sl [8 SEScE
+| 22 sa2l.lees s| |38825%5
+so _Ecl0|5 SC _<S ® Ss 2<>
+_ „ ££20c2.|12./15 0 < o0 oOSm=.-20 —c_ &
+org sse85älsz22: |5855235:
+| ® 2) „zPareäsnz>< TAO>SDLX
+ge .. e DO
+aaeal. Jenskgelälsgrcglsersergt
+= 95 r- z Io OOOOIF EIOOOOO -/OOOOOoOE
+e go rn n==22>22]|€£|=2=2>2>22>2/$j>2=2=>>>
+dd u co ‚«
+.ı EEE
+
+------- psm 6:
+|
+ein Mies Eumss
+Haten.berlin.c Bj,
+gleich mit den <
+abelle 1: Sta a
+f} Mresskomponentee
+Partikel- Meteorolog.
+a [eberfofokrferr
+MC 027 Marienfelde x x
+MC 032 Grunewald x m x u‘ Mm“)
+MC 077 Buch E BE BE i m
+MC 085 Friedrichshagen xy m x Mi Mi x
+MC 145 Frohnau u x x
+Innerstädtischer Hintergrund Ü 0000
+MC 010 Wedding u “ x x x
+MC 018 Schöneberg Kon n
+WE MC 042 Neukölln == x | x x x T,P)
+MC 171 Mitte go m j x . n
+MC 282 Karlshorst x u
+Verkehr 000000000
+MC 115 Hardenbergplatz or
+MC 117 Schildaonmastraße x r x Ex WM u
+WW MC 124 Mariendorfer Damm x x
+MC 143 Silbersteinstraße x x
+‘MC 174 Frankfurter Allee x" x a x
+MC 220 Karl-Marx-Straße x x |
+_ nessengve Ks
+
+------- psm 7:
+.
+
+------- psm 8:
+kei
+
+------- psm 9:
+-
+
+------- psm 10:
+-
+
+------- psm 11:
+ein Ms
+
+laten.berlin.c
+
+gleich mit den (
+
+belle 1: St
+
+Nr
+
+Standort
+
+INessko ponenter
+
+= el Pbkobsr
+
+MC 027
+
+Marienfelde
+
+MC 032
+
+Grunewald
+
+Male
+
+Mm?
+
+MC 077
+
+Buch
+
+MC 085
+
+Friedrichshagen
+
+[KEuET:
+
+i _
+
+MC 145
+
+Frohnau
+
+Innerstädtischer Hint
+
+arund
+
+MC 010
+
+Wedding
+
+MC 018
+
+Schöneberg
+
+BNC 042
+
+Neukölln
+
+Hrne
+
+en
+
+rer
+
+T,F9)
+
+MC 171
+
+Mitte
+
+|
+
+. Kooox
+
+nn 282
+
+Karlshorst
+
+a
+
+ar:
+
+Hardenbergplatz
+
+MC 117
+
+Schilesonastraße
+
+u
+
+Mc 124
+
+Mariendorfer Damm
+
+MC 143
+
+Silbersteinstraße
+
+MG 174
+
+Frankfurter Allee
+
+X
+
+X
+
+X
+
+MC 220
+
+Karl-Marx-Straße
+
+IKS
+
+nessengve
+
+1
+
+------- psm 12:
+passe
+
+ein Ms
+
+2
+
+laten.berlin.c
+
+gleich mit den (
+
+belle 1: St
+
+Nr
+
+Standort
+
+INessko ponenter
+
+= el Pbkobsr
+
+MC 027
+
+Marienfelde
+
+MC 032
+
+Grunewald
+
+Male
+
+Mm?
+
+MC 077
+
+Buch
+
+MC 085
+
+Dr Du Zur u =
+
+Friedrichshagen
+
+[KEuET:
+
+i _
+
+MC 145
+
+Frohnau
+
+> Du Euer ur Zu
+
+Innerstädtischer Hint
+
+arund
+
+MC 010
+
+Wedding
+
+MC 018
+
+Schöneberg
+
+BNC 042
+
+Neukölln
+
+Aridi)
+
+Hrne
+
+gest
+
+ver
+
+T,F9)
+
+MC 171
+
+Mitte
+
+"fl
+
+. xx
+
+MC 282
+
+Karlshorst
+
+> Zu Sur Ze Ze
+
+(ZT
+
+MC 115
+
+Hardenbergplatz
+
+MC 117
+
+Schilesonastraße
+
+Mc 124
+
+Mariendorfer Damm
+
+MC 143
+
+Silbersteinstraße
+
+MG 174
+
+Frankfurter Allee
+
+MC 220
+
+Karl-Marx-Straße
+
+> Du Sur Zr Zu
+
+> Due Zur Sr Zu Zr =
+
+IKS
+
+nessengve
+
+1
+
+------- psm 13:
+kei
